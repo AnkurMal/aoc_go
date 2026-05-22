@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-//go:embed day9.txt
+//go:embed data.txt
 var data string
 
 type Coord struct {

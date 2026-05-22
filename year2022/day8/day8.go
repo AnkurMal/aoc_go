@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-//go:embed day8.txt
+//go:embed data.txt
 var data string
 
 func Part1() {
